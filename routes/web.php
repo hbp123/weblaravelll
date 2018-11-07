@@ -1,7 +1,8 @@
 <?php
 
 Route::get('/', function () {
-    return view('regis');
+    return view('crudtest');
 });
+
 
 
